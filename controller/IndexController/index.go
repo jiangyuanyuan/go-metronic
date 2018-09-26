@@ -11,12 +11,12 @@ type IndexController struct {
 
 func (p *IndexController) Index() {
 	logs.Debug("到了index")
-	//p.TplName = "index/index.html"
-	m := make(map[string]interface{})
-	m["code"] = 200
-	m["message"] = "success"
-	//p.Data["Result"] = 200
-	//p.Data["Message"] = "success"
-	p.Data["json"] = m
-	p.ServeJSON(true)
+	p.TplName = "index/index.html"
+	//m := make(map[string]interface{})
+	//m["code"] = 200
+	//m["message"] = "success"
+	////p.Data["Result"] = 200
+	////p.Data["Message"] = "success"
+	//p.Data["json"] = m
+	//p.ServeJSON(true)
 }
