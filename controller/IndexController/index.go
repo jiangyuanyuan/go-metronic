@@ -2,6 +2,7 @@ package IndexController
 
 import (
 	"github.com/astaxie/beego"
+	"github.com/astaxie/beego/logs"
 )
 
 type IndexController struct {
@@ -9,5 +10,13 @@ type IndexController struct {
 }
 
 func (p *IndexController) Index() {
-	p.TplName = "index/index.html"
+	logs.Debug("到了index")
+	//p.TplName = "index/index.html"
+	m := make(map[string]interface{})
+	m["code"] = 200
+	m["message"] = "success"
+	//p.Data["Result"] = 200
+	//p.Data["Message"] = "success"
+	p.Data["json"] = m
+	p.ServeJSON(true)
 }
