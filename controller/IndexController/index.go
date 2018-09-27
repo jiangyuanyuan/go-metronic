@@ -11,6 +11,7 @@ type IndexController struct {
 
 func (p *IndexController) Index() {
 	logs.Debug("到了index")
+	p.Layout = "layout/layout.html"
 	p.TplName = "index/index.html"
 	//m := make(map[string]interface{})
 	//m["code"] = 200

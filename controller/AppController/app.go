@@ -11,7 +11,8 @@ type AppController struct {
 
 func (p *AppController) Index() {
 	logs.Debug("到了index")
-	p.TplName = "index/index.html"
+	p.Layout = "layout/layout.html"
+	p.TplName = "app/index.html"
 	//m := make(map[string]interface{})
 	//m["code"] = 200
 	//m["message"] = "success"

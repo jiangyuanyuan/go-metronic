@@ -1,817 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39aafddd-7c1c-43ec-9afe-ec0daec136e6" name="Default Changelist" comment="app.conf">
-      <change afterPath="$PROJECT_DIR$/controller/AppController/app.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/DT_bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/about-us.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-fileupload.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-modal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-responsive.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-responsive1.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-tag.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-toggle-buttons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-tree.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-wysihtml5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/brown.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/chosen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/clockface.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/colorpicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/coming-soon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/daterangepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/datetimepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/dropzone.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/email.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/error.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/fullcalendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/glyphicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/grey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/halflings.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/inbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/invoice.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/jquery-ui-1.10.1.custom.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/jquery.easy-pie-chart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/jquery.fancybox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/jquery.fileupload-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/jquery.gritter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/jquery.nestable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/jquery.tagsinput.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/jquery.ui.slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/jqvmap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/lock.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/login-soft.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/multi-select-metro.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/news.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/pricing-tables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/print.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/profile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/promo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/purple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/search.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/select2_metro.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style-metro.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style-non-responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style-responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/timeline.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/timepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/uniform.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/KwPYo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/alpha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/amazon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/animated-overlay.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/avatar1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/avatar1_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/avatar2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/avatar3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/behance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/bg-input-focus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/bg-input.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/bg-opacity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/bg-white-lock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/bg/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/bg/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/bg/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/bg/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/blank.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/blogger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/bstree-halflings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/chosen-sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/datatable-row-openclose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/deviantart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/dribbble.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/dropbox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/earth.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/evernote.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/fancybox_loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/fancybox_overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/fancybox_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/forrst.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphicons-halflings-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphicons-halflings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphicons-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphicons-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphicons-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphicons-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphicons-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphicons-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphicons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphicons_halflings-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphicons_halflings-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphicons_halflings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphicons_halflings.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphiconshalflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphiconshalflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphiconshalflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/glyphiconshalflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/googleplus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/gritter-light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/gritter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/hor-menu-search-close-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/hor-menu-search-close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/hor-menu-search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/hue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/icon-color-close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/icon-color.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/icon-img-down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/icon-img-up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ie-spacer.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/image4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/image5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/img1_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/inbox-nav-arrow-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/item_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/item_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/jolicloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/last-fm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/logo-big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/logo_azteca.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/logo_conquer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/logo_metronic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/menu-toggler.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/overlay-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/photo1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/photo2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/photo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/photo4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/photo5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/photo6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/picasa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/pintrest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/portlet-collapse-icon-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/portlet-collapse-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/portlet-config-icon-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/portlet-config-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/portlet-expand-icon-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/portlet-expand-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/portlet-reload-icon-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/portlet-reload-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/portlet-remove-icon-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/portlet-remove-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/preview_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/profile-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/progressbar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/remove-icon-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/rss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/saturation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/search-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/select2-spinner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/select2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/select2x2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/sidebar-menu-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/sidebar-search-close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/sidebar-toggler.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/skype.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/social_facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/social_googleplus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/social_linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/social_rss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/social_twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/sort_asc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/sort_asc_disabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/sort_both.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/sort_desc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/sort_desc_disabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/spotify.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/spritemap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/spritemap@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/stumbleupon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/switch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/syncfusion-icons-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/syncfusion-icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/tumblr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-bg_diagonals-thick_18_b81900_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-bg_diagonals-thick_20_666666_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-bg_flat_10_000000_40x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-bg_glass_100_f6f6f6_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-bg_glass_100_fdf5ce_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-bg_gloss-wave_35_f6a828_500x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-icons_222222_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-icons_228ef1_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-icons_888888_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-icons_ef8c08_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-icons_ffd27a_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/vimeo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/vk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/walmart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/wordpress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/xing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/yahoo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image/youtube.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/DT_bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-datetimepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-fileupload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-modalmanager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-rtl.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-tag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-timepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap-wysihtml5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/breakpoints.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/breakpoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/canvas-to-blob.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/charts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chosen.jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/ckeditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/clockface.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/coming-soon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/contact-us.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/date.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/daterangepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/dropzone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/excanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/excanvas.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/form-components.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/form-fileupload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/form-samples.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/form-validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/form-wizard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/gallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/gmaps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/inbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-1.10.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-migrate-1.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-ui-1.10.1.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.backstretch.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.blockui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.bootpag.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.bootstrap.wizard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.cookie.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.countdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.dataTables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.dataTables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.easy-pie-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.fancybox.pack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.fileupload-fp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.fileupload-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.fileupload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.flot.crosshair.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.flot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.flot.pie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.flot.resize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.flot.stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.gritter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.iframe-transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.input-ip-address-control-1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.inputmask.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.knob.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.multi-select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.nestable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.pulsate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.slimscroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.sparkline.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.tagsinput.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.toggle.buttons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.ui.widget.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.uniform.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.vmap.europe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.vmap.germany.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.vmap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.vmap.russia.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.vmap.sampledata.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.vmap.usa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.vmap.world.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.xdr-transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/load-image.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/lock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/login-soft.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/maps-google.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/maps-vector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/portlet-draggable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/respond.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/select2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/table-advanced.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/table-editable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/table-managed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/tmpl.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/ui-general.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/ui-jqueryui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/ui-modals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/ui-nestable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/ui-sliders.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/ui-tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/wysihtml5-0.3.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/app/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/charts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/email1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/email2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/email3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/email4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/email5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/email6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/extra_404_option1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/extra_404_option2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/extra_404_option3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/extra_500_option1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/extra_500_option2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/extra_faq.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/extra_image_manager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/extra_invoice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/extra_lock.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/extra_pricing_table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/extra_profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/extra_search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/form_component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/form_dropzone.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/form_fileupload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/form_layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/form_samples.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/form_validation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/form_wizard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/inbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/inbox_inbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/layout_ajax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/layout_ajax_content_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/layout_ajax_content_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/layout_blank_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/layout_boxed_not_responsive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/layout_boxed_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/layout_email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/layout_horizontal_menu1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/layout_horizontal_menu2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/layout_horizontal_sidebar_menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/layout_promo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/layout_sidebar_closed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/login_soft.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/maps_google.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/maps_vector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/DT_bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/about-us.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/bootstrap-fileupload.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/bootstrap-modal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/bootstrap-responsive.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/bootstrap-responsive1.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/bootstrap-tag.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/bootstrap-toggle-buttons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/bootstrap-tree.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/bootstrap-wysihtml5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/brown.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/chosen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/clockface.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/colorpicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/coming-soon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/daterangepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/datetimepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/dropzone.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/email.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/error.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/fullcalendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/glyphicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/grey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/halflings.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/inbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/invoice.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/jquery-ui-1.10.1.custom.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/jquery.easy-pie-chart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/jquery.fancybox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/jquery.fileupload-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/jquery.gritter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/jquery.nestable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/jquery.tagsinput.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/jquery.ui.slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/jqvmap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/lock.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/login-soft.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/multi-select-metro.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/news.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/pricing-tables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/print.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/profile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/promo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/purple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/search.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/select2_metro.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/style-metro.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/style-non-responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/style-responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/timeline.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/timepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/css/uniform.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/KwPYo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/alpha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/amazon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/animated-overlay.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/avatar1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/avatar1_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/avatar2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/avatar3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/behance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/bg-input-focus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/bg-input.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/bg-opacity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/bg-white-lock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/bg/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/bg/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/bg/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/bg/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/blank.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/blogger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/bstree-halflings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/chosen-sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/datatable-row-openclose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/deviantart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/dribbble.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/dropbox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/earth.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/evernote.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/fancybox_loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/fancybox_overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/fancybox_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/forrst.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphicons-halflings-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphicons-halflings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphicons-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphicons-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphicons-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphicons-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphicons-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphicons-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphicons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphicons_halflings-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphicons_halflings-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphicons_halflings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphicons_halflings.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphiconshalflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphiconshalflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphiconshalflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/glyphiconshalflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/googleplus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/gritter-light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/gritter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/hor-menu-search-close-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/hor-menu-search-close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/hor-menu-search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/hue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/icon-color-close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/icon-color.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/icon-img-down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/icon-img-up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ie-spacer.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/image4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/image5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/img1_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/inbox-nav-arrow-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/item_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/item_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/jolicloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/last-fm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/logo-big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/logo_azteca.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/logo_conquer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/logo_metronic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/menu-toggler.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/overlay-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/photo1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/photo2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/photo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/photo4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/photo5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/photo6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/picasa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/pintrest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/portlet-collapse-icon-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/portlet-collapse-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/portlet-config-icon-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/portlet-config-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/portlet-expand-icon-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/portlet-expand-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/portlet-reload-icon-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/portlet-reload-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/portlet-remove-icon-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/portlet-remove-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/preview_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/profile-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/progressbar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/remove-icon-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/rss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/saturation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/search-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/select2-spinner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/select2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/select2x2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/sidebar-menu-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/sidebar-search-close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/sidebar-toggler.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/skype.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/social_facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/social_googleplus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/social_linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/social_rss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/social_twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/sort_asc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/sort_asc_disabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/sort_both.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/sort_desc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/sort_desc_disabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/spotify.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/spritemap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/spritemap@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/stumbleupon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/switch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/syncfusion-icons-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/syncfusion-icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/tumblr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-bg_diagonals-thick_18_b81900_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-bg_diagonals-thick_20_666666_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-bg_flat_10_000000_40x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-bg_glass_100_f6f6f6_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-bg_glass_100_fdf5ce_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-bg_gloss-wave_35_f6a828_500x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-icons_222222_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-icons_228ef1_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-icons_888888_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-icons_ef8c08_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-icons_ffd27a_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/vimeo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/vk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/walmart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/wordpress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/xing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/yahoo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/image/youtube.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/DT_bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/bootstrap-colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/bootstrap-datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/bootstrap-datetimepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/bootstrap-fileupload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/bootstrap-modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/bootstrap-modalmanager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/bootstrap-rtl.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/bootstrap-tag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/bootstrap-timepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/bootstrap-tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/bootstrap-wysihtml5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/breakpoints.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/breakpoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/canvas-to-blob.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/charts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/chosen.jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/ckeditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/clockface.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/coming-soon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/contact-us.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/date.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/daterangepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/dropzone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/excanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/excanvas.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/form-components.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/form-fileupload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/form-samples.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/form-validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/form-wizard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/gallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/gmaps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/inbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery-1.10.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery-migrate-1.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery-ui-1.10.1.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.backstretch.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.blockui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.bootpag.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.bootstrap.wizard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.cookie.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.countdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.dataTables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.dataTables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.easy-pie-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.fancybox.pack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.fileupload-fp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.fileupload-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.fileupload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.flot.crosshair.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.flot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.flot.pie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.flot.resize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.flot.stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.gritter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.iframe-transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.input-ip-address-control-1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.inputmask.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.knob.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.multi-select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.nestable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.pulsate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.slimscroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.sparkline.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.tagsinput.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.toggle.buttons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.ui.widget.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.uniform.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.vmap.europe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.vmap.germany.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.vmap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.vmap.russia.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.vmap.sampledata.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.vmap.usa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.vmap.world.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.xdr-transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/load-image.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/lock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/login-soft.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/maps-google.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/maps-vector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/portlet-draggable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/respond.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/select2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/table-advanced.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/table-editable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/table-managed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/tmpl.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/ui-general.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/ui-jqueryui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/ui-modals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/ui-nestable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/ui-sliders.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/ui-tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/media/js/wysihtml5-0.3.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/page_about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/page_blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/page_blog_item.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/page_calendar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/page_coming_soon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/page_contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/page_news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/page_news_item.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/page_timeline.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/portlet_draggable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/portlet_general.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/source.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/table_advanced.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/table_basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/table_editable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/table_managed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/table_responsive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/ui_buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/ui_general.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/ui_jqueryui.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/ui_modals.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/ui_nestable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/ui_sliders.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/ui_tabs_accordions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/ui_tiles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/ui_tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/metronic.bootstrap/ui_typography.html" afterDir="false" />
+    <list default="true" id="39aafddd-7c1c-43ec-9afe-ec0daec136e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/views/layout/layout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/app.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/app.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/AppController/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/controller/AppController/app.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controller/IndexController/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/controller/IndexController/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/router/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/app/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -830,41 +27,82 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="conf" value="1" />
-          <entry key="css" value="1" />
-          <entry key="go" value="5" />
-          <entry key="html" value="4" />
-          <entry key="js" value="1" />
+          <entry key="conf" value="2" />
+          <entry key="css" value="3" />
+          <entry key="go" value="9" />
+          <entry key="html" value="17" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
-          <entry key="Go" value="5" />
-          <entry key="HTML" value="4" />
-          <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="CSS" value="3" />
+          <entry key="Go" value="9" />
+          <entry key="HTML" value="17" />
+          <entry key="Image" value="1" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="conf" value="257" />
-          <entry key="go" value="370" />
+          <entry key="conf" value="271" />
+          <entry key="go" value="383" />
           <entry key="html" value="36" />
-          <entry key="txt" value="43" />
+          <entry key="txt" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="370" />
+          <entry key="Go" value="383" />
           <entry key="HTML" value="36" />
-          <entry key="PLAIN_TEXT" value="300" />
+          <entry key="PLAIN_TEXT" value="328" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1508">
+              <caret line="185" selection-start-line="185" selection-end-line="185" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/blog.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/metronic.bootstrap/form_wizard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="195" selection-start-line="195" selection-end-line="195" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/router/router.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#16#106#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/main.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -878,52 +116,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/router/router.go">
+        <entry file="file://$PROJECT_DIR$/views/layout/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <element signature="e#16#106#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="193">
+              <caret line="605" selection-start-line="605" selection-end-line="605" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/index/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controller/IndexController/index.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="23" />
-              <folding>
-                <element signature="e#25#61#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf/app.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controller/AppController/app.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#23#94#0" expanded="true" />
               </folding>
@@ -932,24 +137,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/blog.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/metronic.bootstrap/media/js/app.js">
+        <entry file="file://$PROJECT_DIR$/views/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="3461">
+              <caret line="188" column="32" selection-start-line="188" selection-start-column="32" selection-end-line="188" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/app/index.html">
+        <entry file="file://$PROJECT_DIR$/controller/IndexController/index.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="190">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/app.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -966,9 +175,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>media</find>
       <find>IndexController</find>
+      <find>media</find>
     </findStrings>
+    <replaceStrings>
+      <replace>static</replace>
+    </replaceStrings>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
@@ -980,12 +192,13 @@
         <option value="$PROJECT_DIR$/views/IndexController/index.html.go" />
         <option value="$PROJECT_DIR$/views/IndexController/index.html" />
         <option value="$PROJECT_DIR$/main/main.go" />
-        <option value="$PROJECT_DIR$/views/index/index.html" />
-        <option value="$PROJECT_DIR$/conf/app.conf" />
         <option value="$PROJECT_DIR$/controller/appController/app.go" />
-        <option value="$PROJECT_DIR$/router/router.go" />
-        <option value="$PROJECT_DIR$/controller/AppController/app.go" />
+        <option value="$PROJECT_DIR$/views/index/index.html" />
         <option value="$PROJECT_DIR$/controller/IndexController/index.go" />
+        <option value="$PROJECT_DIR$/conf/app.conf" />
+        <option value="$PROJECT_DIR$/router/router.go" />
+        <option value="$PROJECT_DIR$/views/app/index.html" />
+        <option value="$PROJECT_DIR$/controller/AppController/app.go" />
       </list>
     </option>
   </component>
@@ -1070,6 +283,25 @@
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="index" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="go-metronic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-metronic" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-metronic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-metronic" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="metronic.bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-metronic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-metronic" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="metronic.bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -1088,8 +320,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/views/index" />
       <recent name="$PROJECT_DIR$/views/app" />
+      <recent name="$PROJECT_DIR$/views/layout" />
+      <recent name="$PROJECT_DIR$/views/index" />
       <recent name="$PROJECT_DIR$/views" />
       <recent name="$PROJECT_DIR$/static" />
     </key>
@@ -1128,7 +361,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -1137,7 +370,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294271" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2265625" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2265625" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1160,13 +393,91 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="第一个GO的index页面" />
     <MESSAGE value="app.conf" />
-    <option name="LAST_COMMIT_MESSAGE" value="app.conf" />
+    <MESSAGE value="引入metronic模板" />
+    <option name="LAST_COMMIT_MESSAGE" value="引入metronic模板" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/views/IndexController/index.html.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/image/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/metronic.bootstrap/media/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/about-us.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/bootstrap-modalmanager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="240" column="52" selection-start-line="240" selection-start-column="52" selection-end-line="240" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/metronic.bootstrap/media/js/bootstrap-modalmanager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="240" column="52" selection-start-line="240" selection-start-column="52" selection-end-line="240" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/metronic.bootstrap/media/js/jquery.flot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="1260" column="5" selection-start-line="1260" selection-start-column="5" selection-end-line="1260" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/metronic.bootstrap/charts.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/metronic.bootstrap/email2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1152" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/metronic.bootstrap/inbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/metronic.bootstrap/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/app.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1180,64 +491,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf/app.conf">
+    <entry file="file://$PROJECT_DIR$/views/metronic.bootstrap/form_wizard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/blog.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/metronic.bootstrap/media/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="156">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/router/router.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#16#106#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controller/AppController/app.go">
+    <entry file="file://$PROJECT_DIR$/static/css/blog.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#23#94#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="380">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controller/IndexController/index.go">
+    <entry file="file://$PROJECT_DIR$/views/layout/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="e#25#61#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="193">
+          <caret line="605" selection-start-line="605" selection-end-line="605" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3461">
+          <caret line="188" column="32" selection-start-line="188" selection-start-column="32" selection-end-line="188" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="1508">
+          <caret line="185" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/IndexController/index.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/AppController/app.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#23#94#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
